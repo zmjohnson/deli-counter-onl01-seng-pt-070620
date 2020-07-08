@@ -1,4 +1,4 @@
 # Write your code here.
 
-def 
+def deli_counter(array)
 katz_deli = []
