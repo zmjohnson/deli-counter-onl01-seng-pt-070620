@@ -1,3 +1,3 @@
 # Write your code here.
 
-var katzDeli = []
+var katzDeli = [];
