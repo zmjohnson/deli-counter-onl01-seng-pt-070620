@@ -9,7 +9,7 @@ def take_a_number(array, name)
   return name, position 
 end 
 
-take_a_number(katz_deli, "Grace")
-take_a_number(katz_deli, "Tom")
-take_a_number(katz_deli, "Alan")
+take_a_number(katz_deli, "Logan")
+take_a_number(katz_deli, "Avi")
+take_a_number(katz_deli, "")
 
