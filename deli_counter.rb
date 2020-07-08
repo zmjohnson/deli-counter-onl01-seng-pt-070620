@@ -2,3 +2,4 @@
 
 def deli_counter(array)
   katz_deli = []
+  
