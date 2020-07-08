@@ -1,4 +1,7 @@
 # Write your code here.
 
 var katzDeli = [];
-  if 
+function currentLine(line){
+  if(!line.length) {
+    return "The line is currently empty.";
+  }
